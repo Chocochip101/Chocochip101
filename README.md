@@ -1,4 +1,4 @@
-#### Hi there👋, I'm Ki Ho Kwoun a.k.a Chocochip101:cookie:   
+## Hi there👋, I'm Ki Ho Kwoun a.k.a Chocochip101:cookie:   
 
 *I am **noob** student developer studying at Univesity of Seoul* :mortar_board:   
 *I like to **develop** many intersting things and **solve algorithm problems*** :octocat:         
