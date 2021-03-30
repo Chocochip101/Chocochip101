@@ -7,7 +7,8 @@
 
 ### Experience    
   1. Third Place with the **Artificial Intelligence Idea Contest**    
-  2. Kwangwoon University **Math Competition Award**   
+   
+
 ### 📫 How to reach me:    
 :email:EMAIL: <fingercut@naver.com>   
 :postbox:BLOG: <https://chocochip101.tistory.com/>      
