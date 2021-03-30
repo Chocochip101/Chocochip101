@@ -7,7 +7,7 @@
 
 
 📫 How to reach me:   
-fingercut@naver.com
+fingercut@naver.com    
 ![Chocochip's github stats](https://github-readme-stats.vercel.app/api?username=Chocochip101&show_icons=true)  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kiho1998)](https://solved.ac/kiho1998)
 
 <!--
