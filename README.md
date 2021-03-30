@@ -1,8 +1,13 @@
-#### Hi there, I'm Ki Ho Kwoun a.k.a Chocochip101 👋   
+#### Hi there👋, I'm Ki Ho Kwoun a.k.a Chocochip101:cookie:   
 
-I am ***noob*** student developer studying at **Univesity of Seoul**    
-I like to ***develop*** many intersting things and ***solve algorithm problems***       
+*I am **noob** student developer studying at Univesity of Seoul*   
+*I like to **develop** many intersting things and **solve algorithm problems***          
+*I'm currently learning about **Machine Learning(By Kaggle)** and **Deep Learning(Using Tensor Flow)***   
+*Seeking usefull **software and techniques** are
 
+
+📫 How to reach me:   
+fingercut@naver.com
 ![Chocochip's github stats](https://github-readme-stats.vercel.app/api?username=Chocochip101&show_icons=true)  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kiho1998)](https://solved.ac/kiho1998)
 
 <!--
