@@ -1,7 +1,7 @@
 #### Hi there, I'm Ki Ho Kwoun a.k.a Chocochip101 👋   
 
 I am noob student developer studying at Univesity of Seoul    
-I like to develop many intersting things and solve algorithm problems    
+I like to develop many intersting things and solve algorithm problems       
 
 ![Chocochip's github stats](https://github-readme-stats.vercel.app/api?username=Chocochip101&show_icons=true)  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kiho1998)](https://solved.ac/kiho1998)
 
