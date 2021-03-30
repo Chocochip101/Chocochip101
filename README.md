@@ -1,4 +1,7 @@
 ### Hi there, I'm Kiho Kwoun a.k.a Chocochip101 👋
+
+![Chocochip's github stats](https://github.com/Chocochip101)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kiho1998)](https://solved.ac/kiho1998)
 <!--
 **Chocochip101/Chocochip101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
