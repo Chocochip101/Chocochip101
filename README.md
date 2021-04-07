@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chocochip101&label=Profile%20views&color=0e75b6&style=flat" alt="chocochip101" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning(By Kaggle) and Deep Learning(Using TensorFlow)**
-*I like to **develop** many intersting things and **solve algorithm problems** :pencil:
+
 - 📝 I regularly write articles on [https://chocochip101.tistory.com/](https://chocochip101.tistory.com/)
 
 - 📫 How to reach me **fingercut@naver.com**
@@ -25,7 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chocochip101&show_icons=true&locale=en" alt="chocochip101" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chocochip101&" alt="chocochip101" /></p>
-   
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kiho1998)](https://solved.ac/kiho1998)
 
 <!--
