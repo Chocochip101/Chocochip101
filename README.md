@@ -26,7 +26,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiho1998)](https://solved.ac/kiho1998)[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chocohip101)](https://solved.ac/chocohip101)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chocochip101)](https://solved.ac/chocochip101)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chocochip101&show_icons=true&locale=en&layout=compact" alt="chocochip101" /></p>   
 
