@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fingercut@naver.com**
 
-- ⚡ Fun fact **Seeking useful software and techniques makes me exciting**
+- ⚡ Fun fact: **Seeking useful software and techniques makes me exciting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
