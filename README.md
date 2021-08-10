@@ -29,8 +29,8 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiho1998)](https://solved.ac/kiho1998)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chocochip101&show_icons=true&locale=en&layout=compact" alt="chocochip101" /></p>   
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chocochip101&show_icons=true&locale=en" alt="chocochip101" /></p>   
+&nbsp;&nbsp;
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=chocochip101&show_icons=true&locale=en" alt="chocochip101" /></p>   
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chocochip101&" alt="chocochip101" /></p>
 
