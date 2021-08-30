@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Back-End and Machine Learning**
 
-- 📫 How to reach me **fingercut@naver.com**
+- 📫 How to reach me **chocochip.dev@gmail.com**
 
 - ⚡ Fun fact: **Seeking useful software and techniques makes me exciting**
 
