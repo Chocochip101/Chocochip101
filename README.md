@@ -60,9 +60,9 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kiho1998">
  <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=chocochip101&theme=algolia&show_icons=true1">
- <br>
+ <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=chocochip101&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
- <br>
+ <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chocochip101&layout=compact">
 
 </div>
