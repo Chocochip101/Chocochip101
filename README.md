@@ -7,7 +7,7 @@
  <p>🔭 I like to <b>develop many interesting things and solve algorithm problems</b></p>
  <p>📝 I regularly write articles on <a href="https://chocochip101.tistory.com/">Chocochip Blog</a></p>
  <p>🌱 I’m currently developing at <b>Software Maestro 13th</b></p>
- <p>📫 How to reach me <b>chocochip.dev@gmail.com</b></p>
+ <p>📫 How to reach me <b>dev.chocochip@gmail.com</b></p>
  <p>⚡ Fun fact: <b>Seeking useful software and techniques makes me exciting</b></p>
 </div>
 
