@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ki Ho Kwoun a.k.a Chocochip101</h1>
-<h3 align="center">A student AI/ML & Backend developer from South Korea</h3>
+<h3 align="center">A student AI/ML developer from South Korea</h3>
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chocochip101&label=Profile%20views&color=0e75b6&style=flat" alt="chocochip101" /> </p>
 
