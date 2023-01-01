@@ -12,10 +12,10 @@
 <!--   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=FFFFFF"/>&nbsp -->
   <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=Python&logoColor=FFFFFF"/>&nbsp
    <br>
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Aws-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp
    <br>
    <br>
 </div>
