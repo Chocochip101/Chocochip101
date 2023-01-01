@@ -28,7 +28,7 @@
 <br>
  <h3>More about</h3>
  <p>
-Also you can check my 📃<b>CV <a href="https://www.naver.com" target="_blank"> here!
+Also you can check my 📃<b>CV <a href="https://github.com/Chocochip101/CV/blob/main/CV-230101.pdf" target="_blank"> here!
  </p>
  
 <br>
