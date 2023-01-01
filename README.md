@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/>&nbsp
   <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=java&logoColor=FFFFFF"/>&nbsp
   <img src="https://img.shields.io/badge/C++-F34B7D?style=flat-square&logo=c%2B%2B&logoColor=FFFFFF"/>&nbsp
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=FFFFFF"/>&nbsp
+<!--   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=FFFFFF"/>&nbsp -->
   <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=Python&logoColor=FFFFFF"/>&nbsp
    <br>
   <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp
