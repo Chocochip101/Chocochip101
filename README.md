@@ -1,6 +1,6 @@
 <h3 align="left">Intro</h3>
  <p> ❤ Developing is Fun! </p>
- <p>🔭 I'm specially interested in Spring Boot and Kubernetes.</p>
+ <p>🔭 I'm specially interested in Spring Boot and Kotlin.</p>
  <p>📝 I regularly write articles on <a href="https://velog.io/@chocochip">My Blog</a></p>
 
 <br>
