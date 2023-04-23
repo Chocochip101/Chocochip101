@@ -35,7 +35,6 @@ Also you can check my 📃<b>CV <a href="https://github.com/Chocochip101/CV/blob
  <p>
   <img src="https://img.shields.io/badge/chocochip101-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/dev.chocochip-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/symb0l__0310-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
 </p>
 
 <!--
