@@ -5,19 +5,17 @@
 
 <br>
 <h3 align="left">Tech Stack</h3>
-<div align=left>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/>&nbsp
-  <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=java&logoColor=FFFFFF"/>&nbsp
-  <img src="https://img.shields.io/badge/C++-F34B7D?style=flat-square&logo=c%2B%2B&logoColor=FFFFFF"/>&nbsp
-<!--   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=FFFFFF"/>&nbsp -->
-  <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=Python&logoColor=FFFFFF"/>&nbsp
-   <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>&nbsp
-   <br>
-   <br>
-</div>
+
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/Kotlin-B75EA4?style=for-the-badge&logo=kotlin&logoColor=F6891F) <br>
+![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript%20-1f1f1f.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+
 
 <div align=left>
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chocochip101"/>&nbsp
