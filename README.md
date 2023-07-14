@@ -23,12 +23,15 @@
 </div>
 
 <br>
- <h3>More about</h3>
- <p>
-Also you can check my 📃<b>CV <a href="https://github.com/Chocochip101/CV/blob/main/CV-230207.pdf" target="_blank"> here!
- </p>
+ <h3>Activities</h3>
  
-<br>
+- **Softeer 2nd** - Backend Developer
+- **SW마에스트로 13th** - Backend Developer
+- **AUSG 7th**
+- **CMC 13th** - Backend Developer
+- [AWS Certified Developer - Associate](https://www.credly.com/badges/e6510e13-ce4c-4838-b520-23d3dfe45410/public_url)
+- Alim - Problem Solving
+
  <h3>Contact</h3>
  <p>
   <img src="https://img.shields.io/badge/chocochip101-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
