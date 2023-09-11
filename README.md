@@ -30,7 +30,7 @@
 - **AUSG 7th**
 - **CMC 13th** - Backend Developer
 - [AWS Certified Developer - Associate](https://www.credly.com/badges/e6510e13-ce4c-4838-b520-23d3dfe45410/public_url)
-- [Multimodal Frame-Scoring Transformer for Video Summarization](https://arxiv.org/abs/2207.01814) - Deep Learning
+- [Multimodal Frame-Scoring Transformer for Video Summarization](https://arxiv.org/abs/2207.01814)
 - Tave 8th
 - Alim - Problem Solving
 
