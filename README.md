@@ -9,8 +9,6 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/Kotlin-B75EA4?style=for-the-badge&logo=kotlin&logoColor=F6891F) <br>
-![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-1f1f1f.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
@@ -25,7 +23,6 @@
 <br>
  <h3>Activities</h3>
  
-- **Softeer 2nd** - Backend Developer
 - **SW마에스트로 13th** - Backend Developer
 - **AUSG 7th**
 - **CMC 13th** - Backend Developer
