@@ -22,7 +22,7 @@
 
 <br>
  <h3>Activities</h3>
- 
+
 - **SW마에스트로 13th** - Backend Developer
 - **AUSG 7th**
 - **CMC 13th** - Backend Developer
@@ -32,11 +32,14 @@
 - Alim - Problem Solving
 
  <h3>Contact</h3>
- <p>
-  <img src="https://img.shields.io/badge/chocochip101-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/dev.chocochip-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
+<p>
+  <a href="https://www.linkedin.com/in/chocochip101/" target="_blank">
+    <img src="https://img.shields.io/badge/chocochip101-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp
+  <a href="dev.chocochip@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/dev.chocochip-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp
 </p>
-
 <!--
 **Chocochip101/Chocochip101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
