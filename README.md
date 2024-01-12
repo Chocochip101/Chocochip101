@@ -1,4 +1,4 @@
-<h3 align="left">Intro</h3>
+<img width="539" alt="image" src="https://github.com/Chocochip101/Chocochip101/assets/73146678/650c0f62-d274-4e89-af52-63640ec1dc55"><h3 align="left">Intro</h3>
  <p> ❤ Developing is Fun! </p>
  <p>🔭 I'm specially interested in Spring Boot and Kotlin.</p>
  <p>📝 I regularly write articles on <a href="https://velog.io/@chocochip">My Blog</a></p>
@@ -21,7 +21,7 @@
 
 <br>
  <h3>Activities</h3>
- 
+- Woowacourse 6th
 - Softeer 2nd
 - **SW Maestro 13th**
 - **AUSG 7th**
