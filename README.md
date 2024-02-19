@@ -21,17 +21,17 @@
 <br>
  <h3>Activities</h3>
  
-- woowacourse 6th
-- Softeer 2nd
-- **SW Maestro 13th**
-- **AUSG 7th**
-- **CMC 13th**
-- Tave 8th
-- Alim
+- woowacourse 6th (2024.02 ~ Currently)
+- AUSG 7th (2023.06 ~ Currently)
+- Softeer 2nd (2023.07 ~ 2023.08)
+- CMC 13th (2023.05 ~ 2023.07)
+- SW Maestro 13th (2022.05 ~ 2022.11)
+- Tave 8th (2021.08 ~ 2021.12)
+- Alim (2021.03 ~ 2022.12)
 
 <h3>Extra Curricular</h3>
 
-- AWS Community Day 2023 `AWS Kendra를 이용한 검색 엔진 구축하기` [발표](https://velog.io/@chocochip/AWS-Community-Day-2023-%EB%B0%9C%ED%91%9C-%ED%9B%84%EA%B8%B0)
+- AWS Community Day 2023 [`AWS Kendra를 이용한 검색 엔진 구축하기` 발표](https://velog.io/@chocochip/AWS-Community-Day-2023-%EB%B0%9C%ED%91%9C-%ED%9B%84%EA%B8%B0)
 - [AWS Certified Developer - Associate](https://www.credly.com/badges/e6510e13-ce4c-4838-b520-23d3dfe45410/public_url)
 - [Multimodal Frame-Scoring Transformer for Video Summarization](https://arxiv.org/abs/2207.01814)
 
