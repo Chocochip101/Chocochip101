@@ -32,7 +32,8 @@
 <h3>Extra Curricular</h3>
 
 - Presentation: AWS Community Day 2023 [`AWS Kendra를 이용한 검색 엔진 구축하기` 발표](https://velog.io/@chocochip/AWS-Community-Day-2023-%EB%B0%9C%ED%91%9C-%ED%9B%84%EA%B8%B0)
-- Certification: [AWS Certified Developer - Associate](https://www.credly.com/badges/e6510e13-ce4c-4838-b520-23d3dfe45410/public_url)
+- Certification: AWS Certified Developer - Associate
+- Certification: AWS Certified Solution Architect - Associate
 - Paper: [Multimodal Frame-Scoring Transformer for Video Summarization](https://arxiv.org/abs/2207.01814)
 
  <h3>Contact</h3>
