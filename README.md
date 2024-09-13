@@ -31,9 +31,10 @@
 
 <h3>Extra Curricular</h3>
 
+- Presentation: 10분 테코톡 [`인덱스와 스캔 튜닝` 발표](https://youtu.be/_UI8YDU_mfg?si=3Zg2wdulQX_joXrJ)
 - Presentation: AWS Community Day 2023 [`AWS Kendra를 이용한 검색 엔진 구축하기` 발표](https://velog.io/@chocochip/AWS-Community-Day-2023-%EB%B0%9C%ED%91%9C-%ED%9B%84%EA%B8%B0)
-- Certification: AWS Certified Developer - Associate
 - Certification: AWS Certified Solution Architect - Associate
+- Certification: AWS Certified Developer - Associate
 - Paper: [Multimodal Frame-Scoring Transformer for Video Summarization](https://arxiv.org/abs/2207.01814)
 
  <h3>Contact</h3>
