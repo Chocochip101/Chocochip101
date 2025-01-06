@@ -19,9 +19,13 @@
 </div>
 
 <br>
+ <h3>Work Experience</h3>
+ 
+- ABLY Corporation (2025.01 ~ Currently)
+
  <h3>Activities</h3>
  
-- woowacourse 6th (2024.02 ~ Currently)
+- woowacourse 6th (2024.02 ~ 2024.11)
 - AUSG 7th (2023.06 ~ Currently)
 - Softeer 2nd (2023.07 ~ 2023.08)
 - CMC 13th (2023.05 ~ 2023.07)
