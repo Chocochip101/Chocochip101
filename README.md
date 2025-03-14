@@ -1,6 +1,6 @@
  <p> ❤ Developing is Fun! </p>
  <p>🔭 I'm specially interested in Backend stuffs.</p>
- <p>📝 I regularly write articles on <a href="https://velog.io/@chocochip">My Blog</a></p>
+ <p>📝 I regularly write articles on <a href="https://chocochip.co.kr">My Blog</a></p>
 
 <br>
 <h3 align="left">Tech Stack</h3>
