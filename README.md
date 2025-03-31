@@ -2,23 +2,6 @@
  <p>🔭 I'm specially interested in Backend stuffs.</p>
  <p>📝 I regularly write articles on <a href="https://chocochip.co.kr">My Blog</a></p>
 
-<br>
-<h3 align="left">Tech Stack</h3>
-
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff) <br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-
-
-<div align=left>
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chocochip101"/>&nbsp
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kiho1998"/>&nbsp
-</div>
-
-<br>
  <h3>Work Experience</h3>
  
 - ABLY Corporation (2025.01 ~ 2025.03)
@@ -41,15 +24,7 @@
 - Certification: AWS Certified Developer - Associate
 - Paper: [Multimodal Frame-Scoring Transformer for Video Summarization](https://arxiv.org/abs/2207.01814)
 
- <h3>Contact</h3>
-<p>
-  <a href="https://www.linkedin.com/in/chocochip101/" target="_blank">
-    <img src="https://img.shields.io/badge/chocochip101-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp
-  <a href="dev.chocochip@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/dev.chocochip-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp
-</p>
+
 <!--
 **Chocochip101/Chocochip101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
