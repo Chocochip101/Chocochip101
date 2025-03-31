@@ -21,7 +21,7 @@
 <br>
  <h3>Work Experience</h3>
  
-- ABLY Corporation (2025.01 ~ Currently)
+- ABLY Corporation (2025.01 ~ 2025.03)
 
  <h3>Activities</h3>
  
