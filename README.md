@@ -13,8 +13,6 @@
 - Softeer 2nd (2023.07 ~ 2023.08)
 - CMC 13th (2023.05 ~ 2023.07)
 - SW Maestro 13th (2022.05 ~ 2022.11)
-- Tave 8th (2021.08 ~ 2021.12)
-- Alim (2021.03 ~ 2022.12)
 
 <h3>Extra Curricular</h3>
 
